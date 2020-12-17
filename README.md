@@ -1,2 +1,2 @@
 # evangelion
-Bot to RT everything with the word evangelion
+Bot to RT everything with #evangelion
