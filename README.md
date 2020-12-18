@@ -8,8 +8,8 @@ For this you will need the twitter API https://developer.twitter.com/
 after answering the questions (it may take a while), retrieve your key and token, put them in the code.
 <br/>
 <p>
-after that install the requirements, use the command
->>> pip freeze> requirements. txt
+after that install the requirements, use the command >>> pip freeze> requirements. txt
+https://pip.pypa.io/en/stable/reference/pip_freeze/
 <p>
 <h1>Accommodation<h1>
 <h2>To host I recommend hosting at https://www.evennode.com/ but this is already a personal taste<h2>
