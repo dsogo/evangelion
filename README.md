@@ -16,5 +16,5 @@ after that install the requirements, use the command
 <h3>My twitter account<h3>
 <img src="https://i.imgur.com/4JShcOk.png">
 <h2>the end<h2>
-<img src="https://imgur.com/1mUaAwd">
+<img src="https://i.imgur.com/6W5sukG.png">
   
