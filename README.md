@@ -13,3 +13,4 @@ after that install the requirements, use the command
 <p>
 <h1>Accommodation<h1>
 <h2>To host I recommend hosting at https://www.evennode.com/ but this is already a personal taste<h2>
+<h3>My RT evangelion Bot <img src="https://imgur.com/a/1mUaAwd"><h3>
