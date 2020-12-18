@@ -15,3 +15,6 @@ after that install the requirements, use the command
 <h2>To host I recommend hosting at https://www.evennode.com/ but this is already a personal taste<h2>
 <h3>My twitter account<h3>
 <img src="https://i.imgur.com/4JShcOk.png">
+<h2>the end<h2>
+<img src="https://imgur.com/a/1mUaAwd">
+  
