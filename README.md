@@ -1,4 +1,5 @@
 <h1>世紀エヴァンゲリオン 碇シンジ育成計画<h1>
+[![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dsogo/evangelionGo&title=Views)](https://github.com/dsogo/evangelion)
 <p>
 Bot that gives RT to everything with the hashtag #evangelion
 <p>
