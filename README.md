@@ -1,5 +1,4 @@
 <h1>世紀エヴァンゲリオン 碇シンジ育成計画<h1>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdsogo%2Fevangelion&count_bg=%2379C83D&title_bg=%23555555&icon=python.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 <p>
 Bot that gives RT to everything with the hashtag #evangelion
 <p>
@@ -17,5 +16,6 @@ https://pip.pypa.io/en/stable/reference/pip_freeze/
 <h3>My twitter account<h3>
 <img src="https://i.imgur.com/4JShcOk.png">
 <h2>the end<h2>
+<h3>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdsogo%2Fevangelion&count_bg=%2379C83D&title_bg=%23555555&icon=python.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)<h3>
 <img src="https://i.imgur.com/6W5sukG.png">
   
