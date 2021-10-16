@@ -18,4 +18,4 @@ https://pip.pypa.io/en/stable/reference/pip_freeze/
 <h2>the end<h2>
 <img src="https://i.imgur.com/6W5sukG.png">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdsogo%2Fevangelion&count_bg=%2379C83D&title_bg=%23555555&icon=python.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/dsogo/evangelion)
+
